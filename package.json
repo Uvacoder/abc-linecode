@@ -38,8 +38,8 @@
     },
     "devDependencies": {
         "@1milligram/design": "^0.4.0",
-        "@types/react": "^17.0.20",
-        "@types/react-dom": "^17.0.9",
+        "@types/react": "^18.0.18",
+        "@types/react-dom": "^18.0.6",
         "gray-matter": "^4.0.3",
         "prettier": "^2.4.0",
         "sass": "^1.39.2",
